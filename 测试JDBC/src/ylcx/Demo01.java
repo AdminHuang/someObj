@@ -1,5 +1,7 @@
 package ylcx;
-
+/**
+ * 这是简单的一个数据库测试类，测试能否连接并且执行成功
+ */
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
